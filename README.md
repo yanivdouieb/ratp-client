@@ -1,8 +1,8 @@
 # RATP-CLIENT (javascript library)
-A javascript library to interact with the RESTful API of (RATP)[https://github.com/pgrimaud/ratp-api-rest]
+A javascript library to interact with the RESTful API of [RATP][https://github.com/pgrimaud/ratp-api-rest]
 
 # Usage
-Please refer to the (wiki)[https://github.com/yanivdouieb/ratp-client/wiki] for usage examples and descriptions.
+Please refer to the [wiki][https://github.com/yanivdouieb/ratp-client/wiki] for usage examples and descriptions.
 
 # Changelog
 Last update: 1.0.0 (See CHANGELOG file)
