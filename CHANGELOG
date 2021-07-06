@@ -1,0 +1,8 @@
+1.0.0: Yaniv DOUIEB
+Added:
+    # getDestinations
+    # getLines
+    # getMissions
+    # getSchedules
+    # getStations
+    # getTraffic
