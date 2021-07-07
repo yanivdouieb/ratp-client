@@ -4,6 +4,9 @@ A javascript library to interact with the RESTful API of [RATP](https://github.c
 # Usage
 Please refer to the [wiki](https://github.com/yanivdouieb/ratp-client/wiki) for usage examples and descriptions.
 
+# API documentation
+Please refer to the [API documentation](https://api-ratp.pierre-grimaud.fr/v4/)
+
 # Changelog
 Last update: 1.0.0 (See CHANGELOG file)
 
