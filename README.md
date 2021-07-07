@@ -1,4 +1,4 @@
-# RATP-CLIENT (javascript library)
+# RATPJS (javascript library)
 A javascript library to interact with the RESTful API of [RATP](https://github.com/pgrimaud/ratp-api-rest)
 
 # Usage
