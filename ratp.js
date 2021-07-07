@@ -1,3 +1,11 @@
+/*
+ * The MIT License (MIT)
+ *
+ * Copyright (c) Yaniv DOUIEB
+ *
+ * https://github.com/yanivdouieb/ratp-client/
+ *
+ */
 function error(value) {
   console.error(`Ratp Error : ${value}`);
 }
